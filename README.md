@@ -22,5 +22,5 @@ Ensure you have Python 3.7 or later installed. Install the required dependencies
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/vimeo-hd-downloader.git
+   git clone https://github.com/connorodea/vimeo-hd-downloader.git
    cd vimeo-hd-downloader
